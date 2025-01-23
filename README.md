@@ -54,7 +54,7 @@ A digital marketing and web design agency delivering modern, user-friendly websi
 
 ## 📈 GitHub Contributions  
 Want to check out what I've been up to? Here's a heatmap of my activity:  
-![GitHub Contribution Heatmap](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)  
+![GitHub Contribution Heatmap](https://github-readme-streak-stats.herokuapp.com/?user=frankrobotics&theme=radical)  
 
 ---
 
@@ -62,9 +62,9 @@ Want to check out what I've been up to? Here's a heatmap of my activity:
 Want to collaborate, hire, or just chat? Let's connect:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francisokwe)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://frankrobotics.vercel.app)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/frankrobotics)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frankrobotics)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://frankrobotics.fio.com.ng)  
 
 ---
 
